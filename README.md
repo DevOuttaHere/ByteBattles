@@ -1,4 +1,4 @@
-# ByteBattles
+# ByteBattles.
 
 ByteBattles is a competitive programming platform built around a FastAPI backend and a Redis-driven asynchronous judge which can auto-scale. It supports problem management, testcase ingestion, submission workflows, and isolated execution of user code inside pre-warmed Docker sandboxes.
 
